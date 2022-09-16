@@ -39,7 +39,7 @@ struct AboutView: View {
                     .padding(.horizontal, 16)
                     .padding(.top, 2)
                 
-                Text("This app is powered by the Agify.io, Genderize.io, and Nationalize.io APIs by Demographix. These APIs are free to use for up to 1,000 searches / day. These APIs contain millions of data points and classifies data based on these points. The wide-ranging applications for this technology are apparent. Check out the \"Cool Uses\" section of the Agify.io website to learn more about cool ways this API has been used in the real world.")
+                Text("This app is powered by the Agify.io, Genderize.io, and Nationalize.io APIs by Demographix. These APIs are free to use for up to 1,000 searches / day. These APIs contain millions of data points and classifies data based on these points. The wide-ranging applications for this technology are apparent. Check out the cool \"Use Cases\" section of the Agify.io website to learn more about cool ways this API has been used in the real world.")
                     .multilineTextAlignment(.center)
                     .padding(.horizontal, 16)
                     .padding(.top, 2)
