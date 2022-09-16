@@ -1,4 +1,4 @@
-# nameify
+# Nameify
 
 Nameify is an app built for iOS 16 using SwiftUI that provides predictions on your demographic details based only on your name!
 
